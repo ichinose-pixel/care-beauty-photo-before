@@ -1,1 +1,9 @@
-# care-beauty-photo-before
+# 写真を撮る、その前に。
+
+介護美容研究所のPlayable LP。色を選んで爪をなぞり、任意の花を添えて家族写真を撮る体験から、学校の学びを紹介します。
+
+HTML/CSS/JavaScriptと画像のみで動作します。GitHub Pagesはmainブランチのルートを配信してください。ローカル確認はこのディレクトリで `python -m http.server 8000` を実行して開けます。
+
+資料請求は公式サイト https://academybc.jp/lp6s/#form-cta へ遷移します。郵送資料の請求であり、ダウンロード提供ではありません。
+
+画像・ブランド素材の権利は各権利者に帰属します。
